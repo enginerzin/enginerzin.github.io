@@ -1,124 +1,67 @@
 #!/usr/bin/env python3
+"""Import a manually downloaded canonical DBLP person XML export; never fetch."""
+import argparse
+import hashlib
 import json
-import time
-import urllib.parse
-import urllib.request
+from datetime import date
 from pathlib import Path
+import xml.etree.ElementTree as ET
 
-APIS = [
-    "https://dblp.org/search/publ/api",
-    "https://dblp.dagstuhl.de/search/publ/api",
-    "https://dblp.uni-trier.de/search/publ/api",
-]
-QUERY = "author:Engin_Erzin:"
 SOURCE = "https://dblp.org/pid/15/2739"
-OUT = Path("assets/publications.json")
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; enginerzin.github.io/1.0; +https://enginerzin.github.io/)",
-    "Accept": "application/json",
-}
+ROOT = Path(__file__).resolve().parents[1]
 
-def fetch_json():
-    params = urllib.parse.urlencode({"q": QUERY, "h": 1000, "format": "json"})
-    errors = []
-    for api in APIS:
-        url = api + "?" + params
-        for attempt in range(3):
-            try:
-                req = urllib.request.Request(url, headers=HEADERS)
-                with urllib.request.urlopen(req, timeout=60) as r:
-                    body = r.read()
-                    status = r.status
-                    ctype = r.headers.get("Content-Type", "")
-                    # DBLP may answer 202 while still returning a usable API body.
-                    if status not in (200, 202):
-                        raise RuntimeError(f"HTTP {status}")
-                    try:
-                        data = json.loads(body.decode("utf-8-sig"))
-                    except (UnicodeDecodeError, json.JSONDecodeError) as e:
-                        preview = body[:200].decode("utf-8", errors="replace")
-                        raise RuntimeError(
-                            f"HTTP {status}, invalid JSON (Content-Type: {ctype!r}); "
-                            f"response starts with {preview!r}"
-                        ) from e
-                    hits = data.get("result", {}).get("hits", {}).get("hit", [])
-                    if not hits:
-                        raise RuntimeError(f"HTTP {status}, valid JSON but zero hits")
-                    print(f"Fetched bibliography from {api} (HTTP {status})")
-                    return data, url
-            except Exception as e:
-                errors.append(f"{api} attempt {attempt + 1}: {e}")
-                if attempt < 2:
-                    time.sleep(2 ** attempt)
-    raise RuntimeError(
-        "Unable to fetch bibliography from any official DBLP endpoint:\n  - "
-        + "\n  - ".join(errors)
-    )
 
-def as_list(x):
-    if x is None:
-        return []
-    return x if isinstance(x, list) else [x]
+def convert(raw, retrieved):
+    root = ET.fromstring(raw)
+    if root.tag != "dblpperson" or root.get("pid") != "15/2739":
+        raise ValueError("Expected the full dblpperson export for PID 15/2739")
+    wrappers = root.findall("r")
+    if not wrappers or int(root.attrib["n"]) != len(wrappers):
+        raise ValueError("Export record count is missing, empty, or inconsistent")
+    pubs = []
+    seen = set()
+    def text(node, tag):
+        item = node.find(tag)
+        return "" if item is None else "".join(item.itertext()).strip()
+    for wrapper in wrappers:
+        if len(wrapper) != 1:
+            raise ValueError("Malformed publication wrapper")
+        record = wrapper[0]
+        key = record.get("key", "")
+        title, year = text(record, "title"), text(record, "year")
+        authors = ["".join(a.itertext()).strip() for a in record.findall("author")]
+        if not key or key in seen or not title or not year.isdigit() or not authors:
+            raise ValueError(f"Invalid or duplicate publication: {key}")
+        seen.add(key)
+        categories = {"article": "Journal Articles", "inproceedings": "Conference and Workshop Papers",
+                      "book": "Books and Theses", "phdthesis": "Books and Theses", "mastersthesis": "Books and Theses"}
+        category = categories.get(record.tag, "Other")
+        if record.get("publtype") == "informal" or key.startswith("journals/corr/"):
+            category = "Informal and Other Publications"
+        pubs.append(dict(title=title, authors=authors, venue=text(record, "journal") or text(record, "booktitle"),
+                         year=year, volume=text(record, "volume"), number=text(record, "number"),
+                         pages=text(record, "pages"), category=category,
+                         url=text(record, "ee") or "https://dblp.org/rec/" + key, dblp_key=key))
+    pubs.sort(key=lambda p: (-int(p["year"]), p["title"]))
+    return dict(source=SOURCE, retrieved_on=retrieved, status="verified-export", source_record_count=len(wrappers),
+                source_sha256=hashlib.sha256(raw).hexdigest(), publications=pubs)
 
-def author_name(a):
-    return a.get("text", "") if isinstance(a, dict) else str(a)
 
-def category(info):
-    t = info.get("type", "")
-    if t == "Journal Articles":
-        return "Journal Articles"
-    if "Conference" in t:
-        return "Conference and Workshop Papers"
-    if "Informal" in t:
-        return "Informal and Other Publications"
-    if "Books" in t or "Theses" in t:
-        return "Books and Theses"
-    return t or "Other"
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("xml", type=Path)
+    parser.add_argument("--retrieved-on", required=True, type=lambda s: date.fromisoformat(s).isoformat())
+    args = parser.parse_args()
+    raw = args.xml.read_bytes()
+    data = convert(raw, args.retrieved_on)
+    # Retain the exact verified input for reproducibility and review.
+    archive = ROOT / "data/dblp-15-2739.xml"
+    archive.parent.mkdir(parents=True, exist_ok=True)
+    archive.write_bytes(raw)
+    out = ROOT / "assets/publications.json"
+    out.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Wrote {len(data['publications'])} publications to {out}")
 
-data, request_url = fetch_json()
-hits = data.get("result", {}).get("hits", {}).get("hit", [])
-if not hits:
-    raise RuntimeError("DBLP returned zero publications; refusing to overwrite the local bibliography.")
 
-pubs = []
-for hit in hits:
-    info = hit.get("info", {})
-    title = str(info.get("title", "")).rstrip(".")
-    if not title:
-        continue
-    authors = [author_name(a) for a in as_list(info.get("authors", {}).get("author"))]
-    dblp_url = info.get("url", "")
-    key = dblp_url.split("/rec/")[-1] if "/rec/" in dblp_url else ""
-    ee = info.get("ee", "")
-    if isinstance(ee, list):
-        ee = ee[0] if ee else ""
-    pubs.append({
-        "title": title,
-        "authors": authors,
-        "venue": info.get("venue", ""),
-        "year": str(info.get("year", "")),
-        "volume": str(info.get("volume", "")),
-        "number": str(info.get("number", "")),
-        "pages": str(info.get("pages", "")),
-        "category": category(info),
-        "url": ee or dblp_url or SOURCE,
-        "dblp_key": key,
-    })
-
-if not pubs:
-    raise RuntimeError("No usable DBLP publication records were produced.")
-
-pubs.sort(
-    key=lambda x: (int(x["year"]) if x["year"].isdigit() else 0, x["title"]),
-    reverse=True,
-)
-OUT.parent.mkdir(parents=True, exist_ok=True)
-OUT.write_text(
-    json.dumps(
-        {"source": SOURCE, "api_request": request_url, "publications": pubs},
-        ensure_ascii=False,
-        indent=2,
-    ) + "\n",
-    encoding="utf-8",
-)
-print(f"Wrote {len(pubs)} publications to {OUT}")
+if __name__ == "__main__":
+    main()
