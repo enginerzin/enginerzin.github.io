@@ -1,0 +1,36 @@
+name: Update publications
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * 1"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_publications.py"
+      - ".github/workflows/update-publications.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Fetch bibliography from DBLP
+        run: python scripts/update_publications.py
+      - name: Commit updated bibliography
+        run: |
+          if git diff --quiet -- assets/publications.json && [ -f assets/publications.json ]; then
+            echo "Bibliography is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/publications.json
+          git commit -m "Update publication bibliography from DBLP"
+          git push
