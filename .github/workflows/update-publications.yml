@@ -25,12 +25,13 @@ jobs:
         run: python scripts/update_publications.py
       - name: Commit updated bibliography
         run: |
-          if git diff --quiet -- assets/publications.json && [ -f assets/publications.json ]; then
+          test -f assets/publications.json
+          git add assets/publications.json
+          if git diff --cached --quiet; then
             echo "Bibliography is already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/publications.json
           git commit -m "Update publication bibliography from DBLP"
           git push
