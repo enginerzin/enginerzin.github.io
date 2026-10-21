@@ -5,7 +5,11 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-APIS = [\n    "https://dblp.org/search/publ/api",\n    "https://dblp.dagstuhl.de/search/publ/api",\n    "https://dblp.uni-trier.de/search/publ/api",\n]
+APIS = [
+    "https://dblp.org/search/publ/api",
+    "https://dblp.dagstuhl.de/search/publ/api",
+    "https://dblp.uni-trier.de/search/publ/api",
+]
 QUERY = "author:Engin_Erzin:"
 SOURCE = "https://dblp.org/pid/15/2739"
 OUT = Path("assets/publications.json")
