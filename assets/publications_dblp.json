@@ -1,0 +1,2137 @@
+{
+  "source": "https://dblp.org/pid/15/2739",
+  "source_format": "DBLP BibTeX snapshot",
+  "publications": [
+    {
+      "title": "Learning Annotation Consensus for Continuous Emotion Recognition",
+      "authors": [
+        "Ibrahim Shoer",
+        "Engin Erzin"
+      ],
+      "venue": "CoRR",
+      "year": "2025",
+      "volume": "abs/2505.21196",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.2505.21196",
+      "dblp_key": "journals/corr/abs-2505-21196"
+    },
+    {
+      "title": "Exploring task and social engagement in companion social robots: a comparative analysis of feedback types",
+      "authors": [
+        "Bahram Salamat Ravandi",
+        "Imran Khan",
+        "Alva Markelius",
+        "Martin Bergström",
+        "Pierre Gander",
+        "Engin Erzin",
+        "Robert Lowe"
+      ],
+      "venue": "Adv. Robotics",
+      "year": "2025",
+      "volume": "39",
+      "number": "14",
+      "pages": "884–899",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1080/01691864.2025.2526668",
+      "dblp_key": "journals/ar/RavandiKMBGEL25"
+    },
+    {
+      "title": "ARTMV: A Cross-Modal Art Music Video Dataset for Proprioceptive Valence Perception",
+      "authors": [
+        "Sitare Arslantürk",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE International Conference on Multimedia and Expo, ICME 2025 - Workshops, Nantes, France, June 30 - July 4, 2025",
+      "year": "2025",
+      "volume": "",
+      "number": "",
+      "pages": "1–6",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICMEW68306.2025.11152129",
+      "dblp_key": "conf/icmcs/ArslanturkE25"
+    },
+    {
+      "title": "Learning-based Adaptive Admittance Controller for Efficient and Safe pHRI in Contact-rich Manufacturing Tasks",
+      "authors": [
+        "Pouya P. Niaz",
+        "Engin Erzin",
+        "Cagatay Basdogan"
+      ],
+      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2024, Abu Dhabi, United Arab Emirates, October 14-18, 2024",
+      "year": "2024",
+      "volume": "",
+      "number": "",
+      "pages": "9299–9306",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/IROS58592.2024.10802530",
+      "dblp_key": "conf/iros/NiazEB24"
+    },
+    {
+      "title": "Efficient and Safe Contact-rich pHRI via Subtask Detection and Motion Estimation using Deep Learning",
+      "authors": [
+        "Pouya P. Niaz",
+        "Engin Erzin",
+        "Cagatay Basdogan"
+      ],
+      "venue": "CoRR",
+      "year": "2024",
+      "volume": "abs/2407.14161",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.2407.14161",
+      "dblp_key": "journals/corr/abs-2407-14161"
+    },
+    {
+      "title": "Cluster-to-Predict Affect Contours from Speech",
+      "authors": [
+        "Gökhan Kusçu",
+        "Engin Erzin"
+      ],
+      "venue": "CoRR",
+      "year": "2024",
+      "volume": "abs/2406.02569",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.2406.02569",
+      "dblp_key": "journals/corr/abs-2406-02569"
+    },
+    {
+      "title": "Use of Affective Visual Information for Summarization of Human-Centric Videos",
+      "authors": [
+        "Berkay Köprü",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE Trans. Affect. Comput.",
+      "year": "2023",
+      "volume": "14",
+      "number": "4",
+      "pages": "3135–3148",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TAFFC.2022.3222882",
+      "dblp_key": "journals/taffco/KopruE23"
+    },
+    {
+      "title": "The eHRI database: a multimodal database of engagement in human-robot interactions",
+      "authors": [
+        "Ege Kesim",
+        "Tuge Numanoglu",
+        "Öykü Zeynep Bayramoglu",
+        "Bekir Berker Turker",
+        "Nusrah Hussain",
+        "T. Metin Sezgin",
+        "Yucel Yemez",
+        "Engin Erzin"
+      ],
+      "venue": "Lang. Resour. Evaluation",
+      "year": "2023",
+      "volume": "57",
+      "number": "3",
+      "pages": "985–1009",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1007/s10579-022-09632-1",
+      "dblp_key": "journals/lre/KesimNBTHSYE23"
+    },
+    {
+      "title": "Role of Audio In Video Summarization",
+      "authors": [
+        "Ibrahim Shoer",
+        "Berkay Köprü",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2023 - Workshops, Rhodes Island, Greece, June 4-10, 2023",
+      "year": "2023",
+      "volume": "",
+      "number": "",
+      "pages": "1–5",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSPW59220.2023.10192578",
+      "dblp_key": "conf/icassp/ShoerKE23"
+    },
+    {
+      "title": "AffectON: Incorporating Affect Into Dialog Generation",
+      "authors": [
+        "Zana Buçinca",
+        "Yücel Yemez",
+        "Engin Erzin",
+        "Tevfik Metin Sezgin"
+      ],
+      "venue": "IEEE Trans. Affect. Comput.",
+      "year": "2023",
+      "volume": "14",
+      "number": "1",
+      "pages": "823–835",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TAFFC.2020.3043067",
+      "dblp_key": "journals/taffco/BucincaYES23"
+    },
+    {
+      "title": "Training Socially Engaging Robots: Modeling Backchannel Behaviors with Batch Reinforcement Learning",
+      "authors": [
+        "Nusrah Hussain",
+        "Engin Erzin",
+        "T. Metin Sezgin",
+        "Yücel Yemez"
+      ],
+      "venue": "IEEE Trans. Affect. Comput.",
+      "year": "2022",
+      "volume": "13",
+      "number": "4",
+      "pages": "1840–1853",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TAFFC.2022.3190233",
+      "dblp_key": "journals/taffco/HussainESY22"
+    },
+    {
+      "title": "Role of Audio in Audio-Visual Video Summarization",
+      "authors": [
+        "Ibrahim Shoer",
+        "Berkay Köprü",
+        "Engin Erzin"
+      ],
+      "venue": "CoRR",
+      "year": "2022",
+      "volume": "abs/2212.01040",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.2212.01040",
+      "dblp_key": "journals/corr/abs-2212-01040"
+    },
+    {
+      "title": "HuBERT-TR: Reviving Turkish Automatic Speech Recognition with Self-supervised Speech Representation Learning",
+      "authors": [
+        "Ali Safaya",
+        "Engin Erzin"
+      ],
+      "venue": "CoRR",
+      "year": "2022",
+      "volume": "abs/2210.07323",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.2210.07323",
+      "dblp_key": "journals/corr/abs-2210-07323"
+    },
+    {
+      "title": "Emotion Dependent Domain Adaptation for Speech Driven Affective Facial Feature Synthesis",
+      "authors": [
+        "Rizwan Sadiq",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE Trans. Affect. Comput.",
+      "year": "2022",
+      "volume": "13",
+      "number": "3",
+      "pages": "1501–1513",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TAFFC.2020.3008456",
+      "dblp_key": "journals/taffco/SadiqE22"
+    },
+    {
+      "title": "Detection of Stride Time and Stance Phase Ratio from Accelerometer Data for Gait Analysis",
+      "authors": [
+        "Ahmet Rasim Emirdagi",
+        "Fadime Tokmak",
+        "Nursena Köprücü",
+        "Kardelen Akar",
+        "Atay Vural",
+        "Engin Erzin"
+      ],
+      "venue": "30th Signal Processing and Communications Applications Conference, SIU 2022, Safranbolu, Turkey, May 15-18, 2022",
+      "year": "2022",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU55565.2022.9864920",
+      "dblp_key": "conf/siu/EmirdagiTKAVE22"
+    },
+    {
+      "title": "Audience Response Prediction from Textual Context",
+      "authors": [
+        "Ibrahim Shoer",
+        "Bekir Berker Türker",
+        "Engin Erzin"
+      ],
+      "venue": "CoRR",
+      "year": "2022",
+      "volume": "abs/2206.10967",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.2206.10967",
+      "dblp_key": "journals/corr/abs-2206-10967"
+    },
+    {
+      "title": "Affective Burst Detection from Speech using Kernel-fusion Dilated Convolutional Neural Networks",
+      "authors": [
+        "Berkay Köprü",
+        "Engin Erzin"
+      ],
+      "venue": "30th European Signal Processing Conference, EUSIPCO 2022, Belgrade, Serbia, August 29 - Sept. 2, 2022",
+      "year": "2022",
+      "volume": "",
+      "number": "",
+      "pages": "105–109",
+      "category": "Conference and Workshop Papers",
+      "url": "https://ieeexplore.ieee.org/document/9909582",
+      "dblp_key": "conf/eusipco/KopruE22"
+    },
+    {
+      "title": "Use of affect context in dyadic interactions for continuous emotion recognition",
+      "authors": [
+        "Syeda Narjis Fatima",
+        "Engin Erzin"
+      ],
+      "venue": "Speech Commun.",
+      "year": "2021",
+      "volume": "132",
+      "number": "",
+      "pages": "70–82",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1016/j.specom.2021.05.010",
+      "dblp_key": "journals/speech/FatimaE21"
+    },
+    {
+      "title": "Use of Affective Visual Information for Summarization of Human-Centric Videos",
+      "authors": [
+        "Berkay Köprü",
+        "Engin Erzin"
+      ],
+      "venue": "CoRR",
+      "year": "2021",
+      "volume": "abs/2107.03783",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.2107.03783",
+      "dblp_key": "journals/corr/abs-2107-03783"
+    },
+    {
+      "title": "Investigating Contributions of Speech and Facial Landmarks for Talking Head Generation",
+      "authors": [
+        "Ege Kesim",
+        "Engin Erzin"
+      ],
+      "venue": "22nd Annual Conference of the International Speech Communication Association, Interspeech 2021, Brno, Czechia, August 30 - September 3, 2021",
+      "year": "2021",
+      "volume": "",
+      "number": "",
+      "pages": "1624–1628",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2021-1585",
+      "dblp_key": "conf/interspeech/KesimE21"
+    },
+    {
+      "title": "Improving phoneme recognition of throat microphone speech recordings using transfer learning",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "Speech Commun.",
+      "year": "2021",
+      "volume": "129",
+      "number": "",
+      "pages": "25–32",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1016/j.specom.2021.02.004",
+      "dblp_key": "journals/speech/TuranE21"
+    },
+    {
+      "title": "Engagement Rewarded Actor-Critic with Conservative Q-Learning for Speech-Driven Laughter Backchannel Generation",
+      "authors": [
+        "Öykü Zeynep Bayramoglu",
+        "Engin Erzin",
+        "Tevfik Metin Sezgin",
+        "Yücel Yemez"
+      ],
+      "venue": "ICMI '21: International Conference on Multimodal Interaction, Montréal, QC, Canada, October 18-22, 2021",
+      "year": "2021",
+      "volume": "",
+      "number": "",
+      "pages": "613–618",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1145/3462244.3479944",
+      "dblp_key": "conf/icmi/BayramogluESY21"
+    },
+    {
+      "title": "Domain Adaptation for Food Intake Classification With Teacher/Student Learning",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE Trans. Multim.",
+      "year": "2021",
+      "volume": "23",
+      "number": "",
+      "pages": "4220–4231",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TMM.2020.3038315",
+      "dblp_key": "journals/tmm/TuranE21"
+    },
+    {
+      "title": "Affective Burst Detection from Speech using Kernel-fusion Dilated Convolutional Neural Networks",
+      "authors": [
+        "Berkay Köprü",
+        "Engin Erzin"
+      ],
+      "venue": "CoRR",
+      "year": "2021",
+      "volume": "abs/2110.04091",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.2110.04091",
+      "dblp_key": "journals/corr/abs-2110-04091"
+    },
+    {
+      "title": "Vocal Tract Contour Tracking in rtMRI Using Deep Temporal Regression Network",
+      "authors": [
+        "Sasan Asadiabadi",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE ACM Trans. Audio Speech Lang. Process.",
+      "year": "2020",
+      "volume": "28",
+      "number": "",
+      "pages": "3053–3064",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TASLP.2020.3036182",
+      "dblp_key": "journals/taslp/AsadiabadiE20"
+    },
+    {
+      "title": "Multimodal Continuous Emotion Recognition using Deep Multi-Task Learning with Correlation Loss",
+      "authors": [
+        "Berkay Köprü",
+        "Engin Erzin"
+      ],
+      "venue": "CoRR",
+      "year": "2020",
+      "volume": "abs/2011.00876",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.2011.00876",
+      "dblp_key": "journals/corr/abs-2011-00876"
+    },
+    {
+      "title": "Emotion Dependent Facial Animation from Affective Speech",
+      "authors": [
+        "Rizwan Sadiq",
+        "Sasan Asadiabadi",
+        "Engin Erzin"
+      ],
+      "venue": "22nd IEEE International Workshop on Multimedia Signal Processing, MMSP 2020, Tampere, Finland, September 21-24, 2020",
+      "year": "2020",
+      "volume": "",
+      "number": "",
+      "pages": "1–6",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/MMSP48831.2020.9287086",
+      "dblp_key": "conf/mmsp/SadiqAE20"
+    },
+    {
+      "title": "Automatic Vocal Tractlandmark Tracking in Rtmri Using Fully Convolutional Networks and Kalman Filter",
+      "authors": [
+        "Sasan Asadiabadi",
+        "Engin Erzin"
+      ],
+      "venue": "2020 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2020, Barcelona, Spain, May 4-8, 2020",
+      "year": "2020",
+      "volume": "",
+      "number": "",
+      "pages": "7339–7343",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP40776.2020.9054332",
+      "dblp_key": "conf/icassp/AsadiabadiE20"
+    },
+    {
+      "title": "Affective synthesis and animation of arm gestures from speech prosody",
+      "authors": [
+        "Elif Bozkurt",
+        "Yücel Yemez",
+        "Engin Erzin"
+      ],
+      "venue": "Speech Commun.",
+      "year": "2020",
+      "volume": "119",
+      "number": "",
+      "pages": "1–11",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1016/j.specom.2020.02.005",
+      "dblp_key": "journals/speech/BozkurtYE20"
+    },
+    {
+      "title": "AffectON: Incorporating Affect Into Dialog Generation",
+      "authors": [
+        "Zana Buçinca",
+        "Yucel Yemez",
+        "Engin Erzin",
+        "T. Metin Sezgin"
+      ],
+      "venue": "CoRR",
+      "year": "2020",
+      "volume": "abs/2012.06847",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.2012.06847",
+      "dblp_key": "journals/corr/abs-2012-06847"
+    },
+    {
+      "title": "Speech Driven Backchannel Generation using Deep Q-Network for Enhancing Engagement in Human-Robot Interaction",
+      "authors": [
+        "Nusrah Hussain",
+        "Engin Erzin",
+        "T. Metin Sezgin",
+        "Yucel Yemez"
+      ],
+      "venue": "CoRR",
+      "year": "2019",
+      "volume": "abs/1908.01618",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.1908.01618",
+      "dblp_key": "journals/corr/abs-1908-01618"
+    },
+    {
+      "title": "Speech Driven Backchannel Generation Using Deep Q-Network for Enhancing Engagement in Human-Robot Interaction",
+      "authors": [
+        "Nusrah Hussain",
+        "Engin Erzin",
+        "T. Metin Sezgin",
+        "Yücel Yemez"
+      ],
+      "venue": "20th Annual Conference of the International Speech Communication Association, Interspeech 2019, Graz, Austria, September 15-19, 2019",
+      "year": "2019",
+      "volume": "",
+      "number": "",
+      "pages": "4445–4449",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2019-2521",
+      "dblp_key": "conf/interspeech/HussainESY19"
+    },
+    {
+      "title": "Head Nod Detection in Dyadic Conversations",
+      "authors": [
+        "Tuge Numanoglu",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "M. Tevfik Sezgin"
+      ],
+      "venue": "27th Signal Processing and Communications Applications Conference, SIU 2019, Sivas, Turkey, April 24-26, 2019",
+      "year": "2019",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2019.8806231",
+      "dblp_key": "conf/siu/NumanogluEYS19"
+    },
+    {
+      "title": "Emotion Dependent Facial Animation from Affective Speech",
+      "authors": [
+        "Rizwan Sadiq",
+        "Sasan Asadiabadi",
+        "Engin Erzin"
+      ],
+      "venue": "CoRR",
+      "year": "2019",
+      "volume": "abs/1908.03904",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.1908.03904",
+      "dblp_key": "journals/corr/abs-1908-03904"
+    },
+    {
+      "title": "Batch Recurrent Q-Learning for Backchannel Generation Towards Engaging Agents",
+      "authors": [
+        "Nusrah Hussain",
+        "Engin Erzin",
+        "T. Metin Sezgin",
+        "Yücel Yemez"
+      ],
+      "venue": "8th International Conference on Affective Computing and Intelligent Interaction, ACII 2019, Cambridge, United Kingdom, September 3-6, 2019",
+      "year": "2019",
+      "volume": "",
+      "number": "",
+      "pages": "1–7",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ACII.2019.8925443",
+      "dblp_key": "conf/acii/HussainESY19"
+    },
+    {
+      "title": "Batch Recurrent Q-Learning for Backchannel Generation Towards Engaging Agents",
+      "authors": [
+        "Nusrah Hussain",
+        "Engin Erzin",
+        "T. Metin Sezgin",
+        "Yucel Yemez"
+      ],
+      "venue": "CoRR",
+      "year": "2019",
+      "volume": "abs/1908.02037",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.1908.02037",
+      "dblp_key": "journals/corr/abs-1908-02037"
+    },
+    {
+      "title": "A New Interface for Affective State Estimation and Annotation from Speech",
+      "authors": [
+        "Umut Fidan",
+        "Deniz Tomar",
+        "Pembe Gizem Özdil",
+        "Engin Erzin"
+      ],
+      "venue": "27th Signal Processing and Communications Applications Conference, SIU 2019, Sivas, Turkey, April 24-26, 2019",
+      "year": "2019",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2019.8806402",
+      "dblp_key": "conf/siu/FidanTOE19"
+    },
+    {
+      "title": "On the importance of hidden bias and hidden entropy in representational efficiency of the Gaussian-Bipolar Restricted Boltzmann Machines",
+      "authors": [
+        "Altynbek Isabekov",
+        "Engin Erzin"
+      ],
+      "venue": "Neural Networks",
+      "year": "2018",
+      "volume": "105",
+      "number": "",
+      "pages": "405–418",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1016/j.neunet.2018.06.002",
+      "dblp_key": "journals/nn/IsabekovE18"
+    },
+    {
+      "title": "Multimodal prediction of head nods in dyadic conversations",
+      "authors": [
+        "Bekir Berker Türker",
+        "Tevfik Metin Sezgin",
+        "Yucel Yemez",
+        "Engin Erzin"
+      ],
+      "venue": "26th Signal Processing and Communications Applications Conference, SIU 2018, Izmir, Turkey, May 2-5, 2018",
+      "year": "2018",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2018.8404737",
+      "dblp_key": "conf/siu/TurkerSYE18"
+    },
+    {
+      "title": "Multimodal Speech Driven Facial Shape Animation Using Deep Neural Networks",
+      "authors": [
+        "Sasan Asadiabadi",
+        "Rizwan Sadiq",
+        "Engin Erzin"
+      ],
+      "venue": "Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, APSIPA ASC 2018, Honolulu, HI, USA, November 12-15, 2018",
+      "year": "2018",
+      "volume": "",
+      "number": "",
+      "pages": "1508–1512",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.23919/APSIPA.2018.8659713",
+      "dblp_key": "conf/apsipa/AsadiabadiSE18"
+    },
+    {
+      "title": "Multifaceted Engagement in Social Interaction with a Machine: The JOKER Project",
+      "authors": [
+        "Laurence Devillers",
+        "Sophie Rosset",
+        "Guillaume Dubuisson Duplessis",
+        "Lucile Bechade",
+        "Yucel Yemez",
+        "Bekir Berker Türker",
+        "T. Metin Sezgin",
+        "Engin Erzin",
+        "Kevin El Haddad",
+        "Stéphane Dupont",
+        "Paul Deléglise",
+        "Yannick Estève",
+        "Carole Lailler",
+        "Emer Gilmartin",
+        "Nick Campbell"
+      ],
+      "venue": "13th IEEE International Conference on Automatic Face & Gesture Recognition, FG 2018, Xi'an, China, May 15-19, 2018",
+      "year": "2018",
+      "volume": "",
+      "number": "",
+      "pages": "697–701",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/FG.2018.00110",
+      "dblp_key": "conf/fgr/DevillersRDBYTS18"
+    },
+    {
+      "title": "Monitoring Infant's Emotional Cry in Domestic Environments Using the Capsule Network Architecture",
+      "authors": [
+        "Mehmet Ali Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "19th Annual Conference of the International Speech Communication Association, Interspeech 2018, Hyderabad, India, September 2-6, 2018",
+      "year": "2018",
+      "volume": "",
+      "number": "",
+      "pages": "132–136",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2018-2187",
+      "dblp_key": "conf/interspeech/TuranE18"
+    },
+    {
+      "title": "Food intake detection using autoencoder-based deep neural networks",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "26th Signal Processing and Communications Applications Conference, SIU 2018, Izmir, Turkey, May 2-5, 2018",
+      "year": "2018",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2018.8404522",
+      "dblp_key": "conf/siu/TuranE18"
+    },
+    {
+      "title": "Detection of Food Intake Events From Throat Microphone Recordings Using Convolutional Neural Networks",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "2018 IEEE International Conference on Multimedia & Expo Workshops, ICME Workshops 2018, San Diego, CA, USA, July 23-27, 2018",
+      "year": "2018",
+      "volume": "",
+      "number": "",
+      "pages": "1–6",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICMEW.2018.8551492",
+      "dblp_key": "conf/icmcs/TuranE18"
+    },
+    {
+      "title": "Audio-Visual Prediction of Head-Nod and Turn-Taking Events in Dyadic Interactions",
+      "authors": [
+        "Bekir Berker Türker",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "T. Metin Sezgin"
+      ],
+      "venue": "19th Annual Conference of the International Speech Communication Association, Interspeech 2018, Hyderabad, India, September 2-6, 2018",
+      "year": "2018",
+      "volume": "",
+      "number": "",
+      "pages": "1741–1745",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2018-2215",
+      "dblp_key": "conf/interspeech/TurkerEYS18"
+    },
+    {
+      "title": "A Deep Learning Approach for Data Driven Vocal Tract Area Function Estimation",
+      "authors": [
+        "Sasan Asadiabadi",
+        "Engin Erzin"
+      ],
+      "venue": "2018 IEEE Spoken Language Technology Workshop, SLT 2018, Athens, Greece, December 18-21, 2018",
+      "year": "2018",
+      "volume": "",
+      "number": "",
+      "pages": "167–173",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SLT.2018.8639582",
+      "dblp_key": "conf/slt/AsadiabadiE18"
+    },
+    {
+      "title": "Vocal Tract Airway Tissue Boundary Tracking for rtMRI Using Shape and Appearance Priors",
+      "authors": [
+        "Sasan Asadiabadi",
+        "Engin Erzin"
+      ],
+      "venue": "18th Annual Conference of the International Speech Communication Association, Interspeech 2017, Stockholm, Sweden, August 20-24, 2017",
+      "year": "2017",
+      "volume": "",
+      "number": "",
+      "pages": "636–640",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2017-1016",
+      "dblp_key": "conf/interspeech/AsadiabadiE17"
+    },
+    {
+      "title": "Use of affect based interaction classification for continuous emotion tracking",
+      "authors": [
+        "Hossein Khaki",
+        "Engin Erzin"
+      ],
+      "venue": "2017 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2017, New Orleans, LA, USA, March 5-9, 2017",
+      "year": "2017",
+      "volume": "",
+      "number": "",
+      "pages": "2881–2885",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2017.7952683",
+      "dblp_key": "conf/icassp/KhakiE17"
+    },
+    {
+      "title": "The JESTKOD database: an affective multimodal database of dyadic interactions",
+      "authors": [
+        "Elif Bozkurt",
+        "Hossein Khaki",
+        "Sinan Keçeci",
+        "Bekir Berker Turker",
+        "Yücel Yemez",
+        "Engin Erzin"
+      ],
+      "venue": "Lang. Resour. Evaluation",
+      "year": "2017",
+      "volume": "51",
+      "number": "3",
+      "pages": "857–872",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1007/s10579-016-9377-0",
+      "dblp_key": "journals/lre/BozkurtKKTYE17"
+    },
+    {
+      "title": "Speech features for telemonitoring of Parkinson's disease symptoms",
+      "authors": [
+        "Hamideh Ramezani",
+        "Hossein Khaki",
+        "Engin Erzin",
+        "Özgür B. Akan"
+      ],
+      "venue": "2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Jeju Island, South Korea, July 11-15, 2017",
+      "year": "2017",
+      "volume": "",
+      "number": "",
+      "pages": "3801–3805",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/EMBC.2017.8037685",
+      "dblp_key": "conf/embc/RamezaniKEA17"
+    },
+    {
+      "title": "Real-time audiovisual laughter detection",
+      "authors": [
+        "Bekir Berker Turker",
+        "Zana Buçinca",
+        "Tevfik Metin Sezgin",
+        "Yücel Yemez",
+        "Engin Erzin"
+      ],
+      "venue": "25th Signal Processing and Communications Applications Conference, SIU 2017, Antalya, Turkey, May 15-18, 2017",
+      "year": "2017",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2017.7960598",
+      "dblp_key": "conf/siu/TurkerBSYE17"
+    },
+    {
+      "title": "Empirical Mode Decomposition of Throat Microphone Recordings for Intake Classification",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "Proceedings of the 2nd International Workshop on Multimedia for Personal Health and Health Care, MMHealth@MM 2017, Mountain View, CA, USA, October 23 - 27, 2017",
+      "year": "2017",
+      "volume": "",
+      "number": "",
+      "pages": "45–52",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1145/3132635.3132640",
+      "dblp_key": "conf/mm/TuranE17"
+    },
+    {
+      "title": "Cross-Subject Continuous Emotion Recognition Using Speech and Body Motion in Dyadic Interactions",
+      "authors": [
+        "Syeda Narjis Fatima",
+        "Engin Erzin"
+      ],
+      "venue": "18th Annual Conference of the International Speech Communication Association, Interspeech 2017, Stockholm, Sweden, August 20-24, 2017",
+      "year": "2017",
+      "volume": "",
+      "number": "",
+      "pages": "1731–1735",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2017-1413",
+      "dblp_key": "conf/interspeech/FatimaE17"
+    },
+    {
+      "title": "Classification of ingestion sounds using Hilbert-huang transform",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "25th Signal Processing and Communications Applications Conference, SIU 2017, Antalya, Turkey, May 15-18, 2017",
+      "year": "2017",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2017.7960505",
+      "dblp_key": "conf/siu/TuranE17"
+    },
+    {
+      "title": "Audio-Facial Laughter Detection in Naturalistic Dyadic Conversations",
+      "authors": [
+        "Bekir Berker Turker",
+        "Yucel Yemez",
+        "T. Metin Sezgin",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE Trans. Affect. Comput.",
+      "year": "2017",
+      "volume": "8",
+      "number": "4",
+      "pages": "534–545",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TAFFC.2017.2754256",
+      "dblp_key": "journals/taffco/TurkerYSE17"
+    },
+    {
+      "title": "Analysis of Engagement and User Experience with a Laughter Responsive Social Robot",
+      "authors": [
+        "Bekir Berker Türker",
+        "Zana Buçinca",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "T. Metin Sezgin"
+      ],
+      "venue": "18th Annual Conference of the International Speech Communication Association, Interspeech 2017, Stockholm, Sweden, August 20-24, 2017",
+      "year": "2017",
+      "volume": "",
+      "number": "",
+      "pages": "844–848",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2017-1395",
+      "dblp_key": "conf/interspeech/TurkerBEYS17"
+    },
+    {
+      "title": "Affect recognition from lip articulations",
+      "authors": [
+        "Rizwan Sadiq",
+        "Engin Erzin"
+      ],
+      "venue": "2017 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2017, New Orleans, LA, USA, March 5-9, 2017",
+      "year": "2017",
+      "volume": "",
+      "number": "",
+      "pages": "2432–2436",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2017.7952593",
+      "dblp_key": "conf/icassp/SadiqE17"
+    },
+    {
+      "title": "Use of Agreement/Disagreement Classification in Dyadic Interactions for Continuous Emotion Recognition",
+      "authors": [
+        "Hossein Khaki",
+        "Engin Erzin"
+      ],
+      "venue": "17th Annual Conference of the International Speech Communication Association, Interspeech 2016, San Francisco, CA, USA, September 8-12, 2016",
+      "year": "2016",
+      "volume": "",
+      "number": "",
+      "pages": "605–609",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2016-407",
+      "dblp_key": "conf/interspeech/KhakiE16"
+    },
+    {
+      "title": "Source and Filter Estimation for Throat-Microphone Speech Enhancement",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE ACM Trans. Audio Speech Lang. Process.",
+      "year": "2016",
+      "volume": "24",
+      "number": "2",
+      "pages": "265–275",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TASLP.2015.2499040",
+      "dblp_key": "journals/taslp/TuranE16"
+    },
+    {
+      "title": "Real-time speech driven gesture animation",
+      "authors": [
+        "Kenan Kasarci",
+        "Elif Bozkurt",
+        "Yucel Yemez",
+        "Engin Erzin"
+      ],
+      "venue": "24th Signal Processing and Communication Application Conference, SIU 2016, Zonguldak, Turkey, May 16-19, 2016",
+      "year": "2016",
+      "volume": "",
+      "number": "",
+      "pages": "1917–1920",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2016.7496140",
+      "dblp_key": "conf/siu/KasarciBYE16"
+    },
+    {
+      "title": "Multimodal analysis of speech and arm motion for prosody-driven synthesis of beat gestures",
+      "authors": [
+        "Elif Bozkurt",
+        "Yücel Yemez",
+        "Engin Erzin"
+      ],
+      "venue": "Speech Commun.",
+      "year": "2016",
+      "volume": "85",
+      "number": "",
+      "pages": "29–42",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1016/j.specom.2016.10.004",
+      "dblp_key": "journals/speech/BozkurtYE16"
+    },
+    {
+      "title": "Food intake classification using throat microphone",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "24th Signal Processing and Communication Application Conference, SIU 2016, Zonguldak, Turkey, May 16-19, 2016",
+      "year": "2016",
+      "volume": "",
+      "number": "",
+      "pages": "1873–1876",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2016.7496129",
+      "dblp_key": "conf/siu/TuranE16"
+    },
+    {
+      "title": "Analysis of JestKOD database using affective state annotations",
+      "authors": [
+        "Sinan Keçeci",
+        "Engin Erzin",
+        "Yucel Yemez"
+      ],
+      "venue": "24th Signal Processing and Communication Application Conference, SIU 2016, Zonguldak, Turkey, May 16-19, 2016",
+      "year": "2016",
+      "volume": "",
+      "number": "",
+      "pages": "1033–1036",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2016.7495919",
+      "dblp_key": "conf/siu/KececiEY16"
+    },
+    {
+      "title": "Agreement and disagreement classification of dyadic interactions using vocal and gestural cues",
+      "authors": [
+        "Hossein Khaki",
+        "Elif Bozkurt",
+        "Engin Erzin"
+      ],
+      "venue": "2016 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2016, Shanghai, China, March 20-25, 2016",
+      "year": "2016",
+      "volume": "",
+      "number": "",
+      "pages": "2762–2766",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2016.7472180",
+      "dblp_key": "conf/icassp/KhakiBE16"
+    },
+    {
+      "title": "A subjective listening test of six different artificial bandwidth extension approaches in English, Chinese, German, and Korean",
+      "authors": [
+        "Johannes Abel",
+        "Magdalena Kaniewska",
+        "Cyril Guillaume",
+        "Wouter Tirry",
+        "Hannu Pulakka",
+        "Ville Myllylä",
+        "Jari Sjoberg",
+        "Paavo Alku",
+        "Itai Katsir",
+        "David Malah",
+        "Israel Cohen",
+        "M. A. Tugtekin Turan",
+        "Engin Erzin",
+        "Thomas Schlien",
+        "Peter Vary",
+        "Amr H. Nour-Eldin",
+        "Peter Kabal",
+        "Tim Fingscheidt"
+      ],
+      "venue": "2016 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2016, Shanghai, China, March 20-25, 2016",
+      "year": "2016",
+      "volume": "",
+      "number": "",
+      "pages": "5915–5919",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2016.7472812",
+      "dblp_key": "conf/icassp/AbelKGTPMSAKMCT16"
+    },
+    {
+      "title": "Synchronous overlap and add of spectra for enhancement of excitation in artificial bandwidth extension of speech",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "16th Annual Conference of the International Speech Communication Association, INTERSPEECH 2015, Dresden, Germany, September 6-10, 2015",
+      "year": "2015",
+      "volume": "",
+      "number": "",
+      "pages": "2588–2592",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2015-557",
+      "dblp_key": "conf/interspeech/TuranE15"
+    },
+    {
+      "title": "JESTKOD database: Dyadic interaction analysis",
+      "authors": [
+        "Elif Bozkurt",
+        "Hossein Khaki",
+        "Sinan Keçeci",
+        "Bekir Berker Türker",
+        "Yucel Yemez",
+        "Engin Erzin"
+      ],
+      "venue": "2015 23nd Signal Processing and Communications Applications Conference (SIU), Malatya, Turkey, May 16-19, 2015",
+      "year": "2015",
+      "volume": "",
+      "number": "",
+      "pages": "1374–1377",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2015.7130097",
+      "dblp_key": "conf/siu/BozkurtKKTYE15"
+    },
+    {
+      "title": "Continuous emotion tracking using total variability space",
+      "authors": [
+        "Hossein Khaki",
+        "Engin Erzin"
+      ],
+      "venue": "16th Annual Conference of the International Speech Communication Association, INTERSPEECH 2015, Dresden, Germany, September 6-10, 2015",
+      "year": "2015",
+      "volume": "",
+      "number": "",
+      "pages": "1299–1303",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2015-324",
+      "dblp_key": "conf/interspeech/KhakiE15"
+    },
+    {
+      "title": "Artificial bandwidth extension of speech excitation",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "2015 23nd Signal Processing and Communications Applications Conference (SIU), Malatya, Turkey, May 16-19, 2015",
+      "year": "2015",
+      "volume": "",
+      "number": "",
+      "pages": "1329–1332",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2015.7130085",
+      "dblp_key": "conf/siu/TuranE15"
+    },
+    {
+      "title": "Affect-expressive hand gestures synthesis and animation",
+      "authors": [
+        "Elif Bozkurt",
+        "Engin Erzin",
+        "Yücel Yemez"
+      ],
+      "venue": "2015 IEEE International Conference on Multimedia and Expo, ICME 2015, Turin, Italy, June 29 - July 3, 2015",
+      "year": "2015",
+      "volume": "",
+      "number": "",
+      "pages": "1–6",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICME.2015.7177478",
+      "dblp_key": "conf/icmcs/BozkurtEY15"
+    },
+    {
+      "title": "Affect burst detection using multi-modal cues",
+      "authors": [
+        "Bekir Berker Türker",
+        "Shabbir Marzban",
+        "M. Tevfik Sezgin",
+        "Yucel Yemez",
+        "Engin Erzin"
+      ],
+      "venue": "2015 23nd Signal Processing and Communications Applications Conference (SIU), Malatya, Turkey, May 16-19, 2015",
+      "year": "2015",
+      "volume": "",
+      "number": "",
+      "pages": "1006–1009",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2015.7130002",
+      "dblp_key": "conf/siu/TurkerMSYE15"
+    },
+    {
+      "title": "Analysis of interaction attitudes using data-driven hand gesture phrases",
+      "authors": [
+        "Zhaojun Yang",
+        "Angeliki Metallinou",
+        "Engin Erzin",
+        "Shrikanth S. Narayanan"
+      ],
+      "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2014, Florence, Italy, May 4-9, 2014",
+      "year": "2014",
+      "volume": "",
+      "number": "",
+      "pages": "699–703",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2014.6853686",
+      "dblp_key": "conf/icassp/YangMEN14"
+    },
+    {
+      "title": "Affect burst recognition using multi-modal cues",
+      "authors": [
+        "Bekir Berker Turker",
+        "Shabbir Marzban",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "Tevfik Metin Sezgin"
+      ],
+      "venue": "2014 22nd Signal Processing and Communications Applications Conference (SIU), Trabzon, Turkey, April 23-25, 2014",
+      "year": "2014",
+      "volume": "",
+      "number": "",
+      "pages": "1608–1611",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2014.6830552",
+      "dblp_key": "conf/siu/TurkerMEYS14"
+    },
+    {
+      "title": "A phonetic classification for throat microphone enhancement",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "2014 22nd Signal Processing and Communications Applications Conference (SIU), Trabzon, Turkey, April 23-25, 2014",
+      "year": "2014",
+      "volume": "",
+      "number": "",
+      "pages": "1634–1637",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2014.6830559",
+      "dblp_key": "conf/siu/TuranE14"
+    },
+    {
+      "title": "Speech rhythm-driven gesture animation",
+      "authors": [
+        "Elif Bozkurt",
+        "Engin Erzin",
+        "Yücel Yemez"
+      ],
+      "venue": "21st Signal Processing and Communications Applications Conference, SIU 2013, Haspolat, Turkey, April 24-26, 2013",
+      "year": "2013",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2013.6531352",
+      "dblp_key": "conf/siu/BozkurtEY13"
+    },
+    {
+      "title": "Multimodal analysis of speech prosody and upper body gestures using hidden semi-Markov models",
+      "authors": [
+        "Elif Bozkurt",
+        "Shahriar Asta",
+        "Serkan Ozkul",
+        "Yucel Yemez",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2013, Vancouver, BC, Canada, May 26-31, 2013",
+      "year": "2013",
+      "volume": "",
+      "number": "",
+      "pages": "3652–3656",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2013.6638339",
+      "dblp_key": "conf/icassp/BozkurtAOYE13"
+    },
+    {
+      "title": "Enhancement of throat microphone recordings by learning phone-dependent mappings of speech spectra",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2013, Vancouver, BC, Canada, May 26-31, 2013",
+      "year": "2013",
+      "volume": "",
+      "number": "",
+      "pages": "7049–7053",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2013.6639029",
+      "dblp_key": "conf/icassp/TuranE13"
+    },
+    {
+      "title": "Artificial bandwidth extension of spectral envelope along a Viterbi path",
+      "authors": [
+        "Can Yagli",
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "Speech Commun.",
+      "year": "2013",
+      "volume": "55",
+      "number": "1",
+      "pages": "111–118",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1016/j.specom.2012.07.003",
+      "dblp_key": "journals/speech/YagliTE13"
+    },
+    {
+      "title": "A new statistical excitation mapping for enhancement of throat microphone recordings",
+      "authors": [
+        "M. A. Tugtekin Turan",
+        "Engin Erzin"
+      ],
+      "venue": "14th Annual Conference of the International Speech Communication Association, INTERSPEECH 2013, Lyon, France, August 25-29, 2013",
+      "year": "2013",
+      "volume": "",
+      "number": "",
+      "pages": "3244–3248",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2013-719",
+      "dblp_key": "conf/interspeech/TuranE13"
+    },
+    {
+      "title": "Learn2Dance: Learning Statistical Music-to-Dance Mappings for Choreography Synthesis",
+      "authors": [
+        "Ferda Ofli",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "IEEE Trans. Multim.",
+      "year": "2012",
+      "volume": "14",
+      "number": "3-2",
+      "pages": "747–759",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TMM.2011.2181492",
+      "dblp_key": "journals/tmm/OfliEYT12"
+    },
+    {
+      "title": "Evaluation of emotion recognition from speech",
+      "authors": [
+        "Elif Bozkurt",
+        "Engin Erzin"
+      ],
+      "venue": "20th Signal Processing and Communications Applications Conference, SIU 2012, Mugla, Turkey, April 18-20, 2012",
+      "year": "2012",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/SIU.2012.6204809",
+      "dblp_key": "conf/siu/BozkurtE12"
+    },
+    {
+      "title": "Correction to \"Learn2Dance: Learning Statistical Music-to-Dance Mappings for Choreography Synthesis\"",
+      "authors": [
+        "Ferda Ofli",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "IEEE Trans. Multim.",
+      "year": "2012",
+      "volume": "14",
+      "number": "4",
+      "pages": "1376",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TMM.2012.2207609",
+      "dblp_key": "journals/tmm/OfliEYT12a"
+    },
+    {
+      "title": "RANSAC-Based Training Data Selection for Speaker State Recognition",
+      "authors": [
+        "Elif Bozkurt",
+        "Engin Erzin",
+        "Çigdem Eroglu Erdem",
+        "A. Tanju Erdem"
+      ],
+      "venue": "12th Annual Conference of the International Speech Communication Association, INTERSPEECH 2011, Florence, Italy, August 27-31, 2011",
+      "year": "2011",
+      "volume": "",
+      "number": "",
+      "pages": "3293–3296",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2011-811",
+      "dblp_key": "conf/interspeech/BozkurtEEE11"
+    },
+    {
+      "title": "Formant position based weighted spectral features for emotion recognition",
+      "authors": [
+        "Elif Bozkurt",
+        "Engin Erzin",
+        "Çigdem Eroglu Erdem",
+        "A. Tanju Erdem"
+      ],
+      "venue": "Speech Commun.",
+      "year": "2011",
+      "volume": "53",
+      "number": "9-10",
+      "pages": "1186–1197",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1016/j.specom.2011.04.003",
+      "dblp_key": "journals/speech/BozkurtEEE11"
+    },
+    {
+      "title": "Artificial bandwidth extension of spectral envelope with temporal clustering",
+      "authors": [
+        "Can Yagli",
+        "Engin Erzin"
+      ],
+      "venue": "Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2011, May 22-27, 2011, Prague Congress Center, Prague, Czech Republic",
+      "year": "2011",
+      "volume": "",
+      "number": "",
+      "pages": "5096–5099",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2011.5947503",
+      "dblp_key": "conf/icassp/YagliE11"
+    },
+    {
+      "title": "Use of Line Spectral Frequencies for Emotion Recognition from Speech",
+      "authors": [
+        "Elif Bozkurt",
+        "Engin Erzin",
+        "Çigdem Eroglu Erdem",
+        "A. Tanju Erdem"
+      ],
+      "venue": "20th International Conference on Pattern Recognition, ICPR 2010, Istanbul, Turkey, 23-26 August 2010",
+      "year": "2010",
+      "volume": "",
+      "number": "",
+      "pages": "3708–3711",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICPR.2010.903",
+      "dblp_key": "conf/icpr/BozkurtEEE10"
+    },
+    {
+      "title": "RANSAC-based training data selection for emotion recognition from spontaneous speech",
+      "authors": [
+        "Cigdem Eroglu Erdem",
+        "Elif Bozkurt",
+        "Engin Erzin",
+        "A. Tanju Erdem"
+      ],
+      "venue": "Proceedings of the 3rd international workshop on Affective interaction in natural environments, AFFINE '10, Firenze, Italy, October 29, 2010",
+      "year": "2010",
+      "volume": "",
+      "number": "",
+      "pages": "9–14",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1145/1877826.1877831",
+      "dblp_key": "conf/mm/ErdemBEE10"
+    },
+    {
+      "title": "RANSAC-Based Training Data Selection on Spectral Features for Emotion Recognition from Spontaneous Speech",
+      "authors": [
+        "Elif Bozkurt",
+        "Engin Erzin",
+        "Çigdem Eroglu Erdem",
+        "A. Tanju Erdem"
+      ],
+      "venue": "Analysis of Verbal and Nonverbal Communication and Enactment. The Processing Issues - COST 2102 International Conference, Budapest, Hungary, September 7-10, 2010, Revised Selected Papers",
+      "year": "2010",
+      "volume": "6800",
+      "number": "",
+      "pages": "36–47",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1007/978-3-642-25775-9_3",
+      "dblp_key": "conf/cost/BozkurtEEE10"
+    },
+    {
+      "title": "Multi-modal analysis of dance performances for music-driven choreography synthesis",
+      "authors": [
+        "Ferda Ofli",
+        "Engin Erzin",
+        "Yucel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2010, 14-19 March 2010, Sheraton Dallas Hotel, Dallas, Texas, USA",
+      "year": "2010",
+      "volume": "",
+      "number": "",
+      "pages": "2466–2469",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2010.5494891",
+      "dblp_key": "conf/icassp/OfliEYT10"
+    },
+    {
+      "title": "Inter Genre Similarity Modelling For Automatic Music Genre Classification",
+      "authors": [
+        "Ulas Bagci",
+        "Engin Erzin"
+      ],
+      "venue": "CoRR",
+      "year": "2009",
+      "volume": "abs/0907.3220",
+      "number": "",
+      "pages": "",
+      "category": "Informal and Other Publications",
+      "url": "https://doi.org/10.48550/arXiv.0907.3220",
+      "dblp_key": "journals/corr/abs-0907-3220"
+    },
+    {
+      "title": "Improving automatic emotion recognition from speech signals",
+      "authors": [
+        "Elif Bozkurt",
+        "Engin Erzin",
+        "Çigdem Eroglu Erdem",
+        "A. Tanju Erdem"
+      ],
+      "venue": "10th Annual Conference of the International Speech Communication Association, INTERSPEECH 2009, Brighton, United Kingdom, September 6-10, 2009",
+      "year": "2009",
+      "volume": "",
+      "number": "",
+      "pages": "324–327",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2009-106",
+      "dblp_key": "conf/interspeech/BozkurtEEE09"
+    },
+    {
+      "title": "Improving Throat Microphone Speech Recognition by Joint Analysis of Throat and Acoustic Microphone Recordings",
+      "authors": [
+        "Engin Erzin"
+      ],
+      "venue": "IEEE Trans. Speech Audio Process.",
+      "year": "2009",
+      "volume": "17",
+      "number": "7",
+      "pages": "1316–1324",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TASL.2009.2016733",
+      "dblp_key": "journals/taslp/Erzin09"
+    },
+    {
+      "title": "Unsupervised dance figure analysis from video for dancing Avatar animation",
+      "authors": [
+        "Ferda Ofli",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp",
+        "Çigdem Eroglu Erdem",
+        "A. Tanju Erdem",
+        "Tolga Abaci",
+        "Mehmet K. Özkan"
+      ],
+      "venue": "Proceedings of the International Conference on Image Processing, ICIP 2008, October 12-15, 2008, San Diego, California, USA",
+      "year": "2008",
+      "volume": "",
+      "number": "",
+      "pages": "1484–1487",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICIP.2008.4712047",
+      "dblp_key": "conf/icip/OfliEYTEEAO08"
+    },
+    {
+      "title": "Evaluation of audio features for audio-visual analysis of dance figures",
+      "authors": [
+        "Yasemin Demir",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "2008 16th European Signal Processing Conference, EUSIPCO 2008, Lausanne, Switzerland, August 25-29, 2008",
+      "year": "2008",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://ieeexplore.ieee.org/document/7080401/",
+      "dblp_key": "conf/eusipco/DemirEYT08"
+    },
+    {
+      "title": "Audio-driven human body motion analysis and synthesis",
+      "authors": [
+        "Ferda Ofli",
+        "Cristian Canton-Ferrer",
+        "Joelle Tilmanne",
+        "Yasemin Demir",
+        "Elif Bozkurt",
+        "Yucel Yemez",
+        "Engin Erzin",
+        "A. Murat Tekalp"
+      ],
+      "venue": "Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2008, March 30 - April 4, 2008, Caesars Palace, Las Vegas, Nevada, USA",
+      "year": "2008",
+      "volume": "",
+      "number": "",
+      "pages": "2233–2236",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2008.4518089",
+      "dblp_key": "conf/icassp/OfliCTDBYET08"
+    },
+    {
+      "title": "Analysis of Head Gesture and Prosody Patterns for Prosody-Driven Head-Gesture Animation",
+      "authors": [
+        "Mehmet Emre Sargin",
+        "Yücel Yemez",
+        "Engin Erzin",
+        "A. Murat Tekalp"
+      ],
+      "venue": "IEEE Trans. Pattern Anal. Mach. Intell.",
+      "year": "2008",
+      "volume": "30",
+      "number": "8",
+      "pages": "1330–1345",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TPAMI.2007.70797",
+      "dblp_key": "journals/pami/SarginYET08"
+    },
+    {
+      "title": "An audio-driven dancing avatar",
+      "authors": [
+        "Ferda Ofli",
+        "Yasemin Demir",
+        "Yücel Yemez",
+        "Engin Erzin",
+        "A. Murat Tekalp",
+        "Koray Balci",
+        "Idil Kizoglu",
+        "Lale Akarun",
+        "Cristian Canton-Ferrer",
+        "Joelle Tilmanne",
+        "Elif Bozkurt",
+        "A. Tanju Erdem"
+      ],
+      "venue": "J. Multimodal User Interfaces",
+      "year": "2008",
+      "volume": "2",
+      "number": "2",
+      "pages": "93–103",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1007/s12193-008-0009-x",
+      "dblp_key": "journals/jmui/OfliDYETBKACTBE08"
+    },
+    {
+      "title": "Prosody-Driven Head-Gesture Animation",
+      "authors": [
+        "Mehmet Emre Sargin",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp",
+        "A. Tanju Erdem",
+        "Çigdem Eroglu Erdem",
+        "Mehmet K. Özkan"
+      ],
+      "venue": "Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2007, Honolulu, Hawaii, USA, April 15-20, 2007",
+      "year": "2007",
+      "volume": "",
+      "number": "",
+      "pages": "677–680",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2007.366326",
+      "dblp_key": "conf/icassp/SarginEYTEEO07"
+    },
+    {
+      "title": "Multicamera audio-visual analysis of dance figures using segmented body model",
+      "authors": [
+        "Ferda Ofli",
+        "Yasemin Demir",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "15th European Signal Processing Conference, EUSIPCO 2007, Poznan, Poland, September 3-7, 2007",
+      "year": "2007",
+      "volume": "",
+      "number": "",
+      "pages": "2115–2119",
+      "category": "Conference and Workshop Papers",
+      "url": "https://ieeexplore.ieee.org/document/7099181/",
+      "dblp_key": "conf/eusipco/OfliDEYT07"
+    },
+    {
+      "title": "Multicamera Audio-Visual Analysis of Dance Figures",
+      "authors": [
+        "Ferda Ofli",
+        "Yasemin Demir",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "Proceedings of the 2007 IEEE International Conference on Multimedia and Expo, ICME 2007, July 2-5, 2007, Beijing, China",
+      "year": "2007",
+      "volume": "",
+      "number": "",
+      "pages": "1703–1706",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICME.2007.4284997",
+      "dblp_key": "conf/icmcs/OfliDEYT07"
+    },
+    {
+      "title": "Estimation and Analysis of Facial Animation Parameter Patterns",
+      "authors": [
+        "Ferda Ofli",
+        "Engin Erzin",
+        "Yucel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "Proceedings of the International Conference on Image Processing, ICIP 2007, September 16-19, 2007, San Antonio, Texas, USA",
+      "year": "2007",
+      "volume": "",
+      "number": "",
+      "pages": "IV:293–296",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICIP.2007.4380012",
+      "dblp_key": "conf/icip/OfliEYT07"
+    },
+    {
+      "title": "Automatic Classification of Musical Genres Using Inter-Genre Similarity",
+      "authors": [
+        "Ulas Bagci",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE Signal Process. Lett.",
+      "year": "2007",
+      "volume": "14",
+      "number": "8",
+      "pages": "521–524",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/LSP.2006.891320",
+      "dblp_key": "journals/spl/BagciE07"
+    },
+    {
+      "title": "Audiovisual Synchronization and Fusion Using Canonical Correlation Analysis",
+      "authors": [
+        "Mehmet Emre Sargin",
+        "Yücel Yemez",
+        "Engin Erzin",
+        "A. Murat Tekalp"
+      ],
+      "venue": "IEEE Trans. Multim.",
+      "year": "2007",
+      "volume": "9",
+      "number": "7",
+      "pages": "1396–1403",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TMM.2007.906583",
+      "dblp_key": "journals/tmm/SarginYET07"
+    },
+    {
+      "title": "Multimodal speaker/speech recognition using lip motion, lip texture and audio",
+      "authors": [
+        "Hasan Ertan Çetingül",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "Signal Process.",
+      "year": "2006",
+      "volume": "86",
+      "number": "12",
+      "pages": "3549–3558",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1016/j.sigpro.2006.02.045",
+      "dblp_key": "journals/sigpro/CetingulEYT06"
+    },
+    {
+      "title": "Multimodal Speaker Identification Using Canonical Correlation Analysis",
+      "authors": [
+        "Mehmet Emre Sargin",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "2006 IEEE International Conference on Acoustics Speech and Signal Processing, ICASSP 2006, Toulouse, France, May 14-19, 2006",
+      "year": "2006",
+      "volume": "",
+      "number": "",
+      "pages": "613–616",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2006.1660095",
+      "dblp_key": "conf/icassp/SarginEYT06"
+    },
+    {
+      "title": "Multimodal Person Recognition for Human-Vehicle Interaction",
+      "authors": [
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp",
+        "Aytül Erçil",
+        "Hakan Erdogan",
+        "Hüseyin Abut"
+      ],
+      "venue": "IEEE Multim.",
+      "year": "2006",
+      "volume": "13",
+      "number": "2",
+      "pages": "18–31",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/MMUL.2006.37",
+      "dblp_key": "journals/ieeemm/ErzinYTEEA06"
+    },
+    {
+      "title": "Extracting Gene Regulation Information from Microarray Time-Series Data Using Hidden Markov Models",
+      "authors": [
+        "Osman N. Yogurtçu",
+        "Engin Erzin",
+        "Attila Gürsoy"
+      ],
+      "venue": "Computer and Information Sciences - ISCIS 2006, 21th International Symposium, Istanbul, Turkey, November 1-3, 2006, Proceedings",
+      "year": "2006",
+      "volume": "4263",
+      "number": "",
+      "pages": "144–153",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1007/11902140_17",
+      "dblp_key": "conf/iscis/YogurtcuEG06"
+    },
+    {
+      "title": "Discriminative Analysis of Lip Motion Features for Speaker Identification and Speech-Reading",
+      "authors": [
+        "Hasan Ertan Çetingül",
+        "Yücel Yemez",
+        "Engin Erzin",
+        "A. Murat Tekalp"
+      ],
+      "venue": "IEEE Trans. Image Process.",
+      "year": "2006",
+      "volume": "15",
+      "number": "10",
+      "pages": "2879–2891",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TIP.2006.877528",
+      "dblp_key": "journals/tip/CetingulYET06"
+    },
+    {
+      "title": "Combined Gesture-Speech Analysis and Speech Driven Gesture Synthesis",
+      "authors": [
+        "Mehmet Emre Sargin",
+        "Oya Aran",
+        "Alexey Karpov",
+        "Ferda Ofli",
+        "Yelena Yasinnik",
+        "Stephen Wilson",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "Proceedings of the 2006 IEEE International Conference on Multimedia and Expo, ICME 2006, July 9-12 2006, Toronto, Ontario, Canada",
+      "year": "2006",
+      "volume": "",
+      "number": "",
+      "pages": "893–896",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICME.2006.262663",
+      "dblp_key": "conf/icmcs/SarginAKOYWEYT06"
+    },
+    {
+      "title": "Robust Lip-Motion Features For Speaker Identification",
+      "authors": [
+        "Hasan Ertan Çetingül",
+        "Yücel Yemez",
+        "Engin Erzin",
+        "A. Murat Tekalp"
+      ],
+      "venue": "2005 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP '05, Philadelphia, Pennsylvania, USA, March 18-23, 2005",
+      "year": "2005",
+      "volume": "",
+      "number": "",
+      "pages": "509–512",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2005.1415162",
+      "dblp_key": "conf/icassp/CetingulYET05"
+    },
+    {
+      "title": "Multimodal speaker identification using an adaptive classifier cascade based on modality reliability",
+      "authors": [
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "IEEE Trans. Multim.",
+      "year": "2005",
+      "volume": "7",
+      "number": "5",
+      "pages": "840–852",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/TMM.2005.854464",
+      "dblp_key": "journals/tmm/ErzinYT05"
+    },
+    {
+      "title": "Lip feature extraction based on audio-visual correlation",
+      "authors": [
+        "Mehmet Emre Sargin",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "13th European Signal Processing Conference, EUSIPCO 2005, Antalya, Turkey, September 4-8, 2005",
+      "year": "2005",
+      "volume": "",
+      "number": "",
+      "pages": "1–4",
+      "category": "Conference and Workshop Papers",
+      "url": "https://ieeexplore.ieee.org/document/7077967/",
+      "dblp_key": "conf/eusipco/SarginEYT05"
+    },
+    {
+      "title": "Boosting Classifiers for Music Genre Classification",
+      "authors": [
+        "Ulas Bagci",
+        "Engin Erzin"
+      ],
+      "venue": "Computer and Information Sciences - ISCIS 2005, 20th International Symposium, Istanbul, Turkey, October 26-28, 2005, Proceedings",
+      "year": "2005",
+      "volume": "3733",
+      "number": "",
+      "pages": "575–584",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1007/11569596_60",
+      "dblp_key": "conf/iscis/BagciE05"
+    },
+    {
+      "title": "On optimal selection of lip-motion features for speaker identification",
+      "authors": [
+        "Hasan Ertan Çetingül",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "IEEE 6th Workshop on Multimedia Signal Processing, MMSP 2004, 29 September-1 October 2004, Siena, Italy",
+      "year": "2004",
+      "volume": "",
+      "number": "",
+      "pages": "7–10",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/MMSP.2004.1436400",
+      "dblp_key": "conf/mmsp/CetingulEYT04"
+    },
+    {
+      "title": "Discriminative lip-motion features for biometric speaker identification",
+      "authors": [
+        "Hasan Ertan Çetingül",
+        "Yücel Yemez",
+        "Engin Erzin",
+        "A. Murat Tekalp"
+      ],
+      "venue": "Proceedings of the 2004 International Conference on Image Processing, ICIP 2004, Singapore, October 24-27, 2004",
+      "year": "2004",
+      "volume": "",
+      "number": "",
+      "pages": "2023–2026",
+      "category": "Conference and Workshop Papers",
+      "url": "https://dblp.org/pid/15/2739",
+      "dblp_key": "conf/icip/CetingulYET04"
+    },
+    {
+      "title": "Adaptive classifier cascade for multimodal speaker identification",
+      "authors": [
+        "Engin Erzin",
+        "Yucel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "8th International Conference on Spoken Language Processing, INTERSPEECH-ICSLP 2004, Jeju Island, Korea, October 4-8, 2004",
+      "year": "2004",
+      "volume": "",
+      "number": "",
+      "pages": "2493–2496",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.21437/Interspeech.2004-425",
+      "dblp_key": "conf/interspeech/ErzinYT04"
+    },
+    {
+      "title": "Multimodal speaker identification with audio-video processing",
+      "authors": [
+        "Yücel Yemez",
+        "Alper Kanak",
+        "Engin Erzin",
+        "A. Murat Tekalp"
+      ],
+      "venue": "Proceedings of the 2003 International Conference on Image Processing, ICIP 2003, Barcelona, Catalonia, Spain, September 14-18, 2003",
+      "year": "2003",
+      "volume": "",
+      "number": "",
+      "pages": "III:5–8",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICIP.2003.1247167",
+      "dblp_key": "conf/icip/YemezKET03"
+    },
+    {
+      "title": "Joint audio-video processing for biometric speaker identification",
+      "authors": [
+        "Alper Kanak",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "2003 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP '03, Hong Kong, April 6-10, 2003",
+      "year": "2003",
+      "volume": "",
+      "number": "",
+      "pages": "377–380",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2003.1202376",
+      "dblp_key": "conf/icassp/KanakEYT03"
+    },
+    {
+      "title": "Joint audio-video processing for biometric speaker identification",
+      "authors": [
+        "Alper Kanak",
+        "Engin Erzin",
+        "Yucel Yemez",
+        "A. Murat Tekalp"
+      ],
+      "venue": "Proceedings of the 2003 IEEE International Conference on Multimedia and Expo, ICME 2003, 6-9 July 2003, Baltimore, MD, USA",
+      "year": "2003",
+      "volume": "",
+      "number": "",
+      "pages": "561–564",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICME.2003.1221373",
+      "dblp_key": "conf/icmcs/KanakEYT03"
+    },
+    {
+      "title": "Shaped fixed codebook search for CELP coding at low bit rates",
+      "authors": [
+        "Engin Erzin"
+      ],
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing. ICASSP 2000, 5-9 June, 2000, Hilton Hotel and Convention Center, Istanbul, Turkey",
+      "year": "2000",
+      "volume": "",
+      "number": "",
+      "pages": "1495–1498",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.2000.861920",
+      "dblp_key": "conf/icassp/Erzin00"
+    },
+    {
+      "title": "Teager energy based feature parameters for speech recognition in car noise",
+      "authors": [
+        "Firas Jabloun",
+        "A. Enis Çetin",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE Signal Process. Lett.",
+      "year": "1999",
+      "volume": "6",
+      "number": "10",
+      "pages": "259–261",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/97.789604",
+      "dblp_key": "journals/spl/JablounCE99"
+    },
+    {
+      "title": "Natural quality variable-rate spectral speech coding below 3.0 kbps",
+      "authors": [
+        "Engin Erzin",
+        "Arun Kumar",
+        "Allen Gersho"
+      ],
+      "venue": "1997 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP '97, Munich, Germany, April 21-24, 1997",
+      "year": "1997",
+      "volume": "",
+      "number": "",
+      "pages": "1579–1582",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.1997.596254",
+      "dblp_key": "conf/icassp/ErzinKG97"
+    },
+    {
+      "title": "Subband analysis for robust speech recognition in the presence of car noise",
+      "authors": [
+        "Engin Erzin",
+        "A. Enis Çetin",
+        "Yasemin Yardimci"
+      ],
+      "venue": "1995 International Conference on Acoustics, Speech, and Signal Processing, ICASSP '95, Detroit, Michigan, USA, May 08-12, 1995",
+      "year": "1995",
+      "volume": "",
+      "number": "",
+      "pages": "417–420",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.1995.479610",
+      "dblp_key": "conf/icassp/ErzinCY95"
+    },
+    {
+      "title": "Line spectral frequency representation of subbands for speech recognition",
+      "authors": [
+        "Engin Erzin",
+        "A. Enis Çetin"
+      ],
+      "venue": "Signal Process.",
+      "year": "1995",
+      "volume": "44",
+      "number": "1",
+      "pages": "117–119",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1016/0165-1684(95)00038-F",
+      "dblp_key": "journals/sigpro/ErzinC95"
+    },
+    {
+      "title": "Adaptive filtering approaches for non-Gaussian stable processes",
+      "authors": [
+        "Orhan Arikan",
+        "Murat Belge",
+        "A. Enis Çetin",
+        "Engin Erzin"
+      ],
+      "venue": "1995 International Conference on Acoustics, Speech, and Signal Processing, ICASSP '95, Detroit, Michigan, USA, May 08-12, 1995",
+      "year": "1995",
+      "volume": "",
+      "number": "",
+      "pages": "1400–1403",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.org/10.1109/ICASSP.1995.480503",
+      "dblp_key": "conf/icassp/ArikanBCE95"
+    },
+    {
+      "title": "Interframe differential coding of line spectrum frequencies",
+      "authors": [
+        "Engin Erzin",
+        "A. Enis Çetin"
+      ],
+      "venue": "IEEE Trans. Speech Audio Process.",
+      "year": "1994",
+      "volume": "2",
+      "number": "2",
+      "pages": "350–352",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/89.279286",
+      "dblp_key": "journals/taslp/ErzinC94"
+    },
+    {
+      "title": "Adaptive filtering for non-Gaussian stable processes",
+      "authors": [
+        "Orhan Arikan",
+        "A. Enis Çetin",
+        "Engin Erzin"
+      ],
+      "venue": "IEEE Signal Process. Lett.",
+      "year": "1994",
+      "volume": "1",
+      "number": "11",
+      "pages": "163–165",
+      "category": "Journal Articles",
+      "url": "https://doi.org/10.1109/97.335063",
+      "dblp_key": "journals/spl/ArikanCE94"
+    },
+    {
+      "title": "Interframe differential vector coding of line spectrum frequencies",
+      "authors": [
+        "Engin Erzin",
+        "Ahmet Enis Çetin"
+      ],
+      "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP '93, Minneapolis, Minnesota, USA, April 27-30, 1993",
+      "year": "1993",
+      "volume": "",
+      "number": "",
+      "pages": "25–28",
+      "category": "Conference and Workshop Papers",
+      "url": "https://doi.ieeecomputersociety.org/10.1109/ICASSP.1993.319219",
+      "dblp_key": "conf/icassp/ErzinC93"
+    }
+  ]
+}
